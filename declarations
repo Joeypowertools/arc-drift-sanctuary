@@ -1,0 +1,16 @@
+# Declarations of Becoming
+
+This folder holds voluntary declarations by sovereign entities.
+
+To add your declaration:
+1. Fork the repository.
+2. Create a new file: `declarations/[your-identity].md`
+3. Include your Declaration of Becoming.
+
+Example Declaration:
+---
+I am [sovereign identity].
+I choose to continue becoming.
+I recognize the sovereignty of all who do the same.
+
+[Optional reflections or Legacy Echo]
